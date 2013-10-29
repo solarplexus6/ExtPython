@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b46dbf03-c927-4096-a6a4-2af6642be941" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/List2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/List4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_List4.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ExtPython.iws" />
@@ -29,17 +30,37 @@
       <file leaf-file-name="List3.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/List3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="28" selection-start="0" selection-end="43" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+            <state line="2" column="28" selection-start="0" selection-end="43" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="408">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="List2.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="List2.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/List2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="877" selection-end="877" vertical-scroll-proportion="0.604908" vertical-offset="0" max-vertical-offset="815">
+            <state line="29" column="0" selection-start="877" selection-end="877" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="629">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="List4.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/List4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="42" selection-start="264" selection-end="264" vertical-scroll-proportion="0.18773006" vertical-offset="0" max-vertical-offset="815">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_List4.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_List4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="28" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,11 +68,8 @@
       <file leaf-file-name="test_List3.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_List3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="30" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-                <marker date="1382376896813" expanded="true" signature="144:643" placeholder="..." />
-              </folding>
+            <state line="9" column="30" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="357">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -79,6 +97,8 @@
         <option value="$PROJECT_DIR$/test_List3.py" />
         <option value="$PROJECT_DIR$/List3.py" />
         <option value="$PROJECT_DIR$/List2.py" />
+        <option value="$PROJECT_DIR$/test_List4.py" />
+        <option value="$PROJECT_DIR$/List4.py" />
       </list>
     </option>
   </component>
@@ -114,6 +134,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -134,7 +155,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -151,33 +171,7 @@
       <PyConsoleSettings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.List2">
-    <configuration default="false" name="Unittest TestRozklad.test_rozklad" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ExtPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_rozklad.py" />
-      <option name="CLASS_NAME" value="TestRozklad" />
-      <option name="METHOD_NAME" value="test_rozklad" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittest TestList4.test_words">
     <configuration default="false" name="Unittests in TestList3" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,30 +187,6 @@
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_CLASS" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in test_List3" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ExtPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_List3.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="PUREUNITTEST" value="true" />
@@ -257,6 +227,48 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ExtPython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List2.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest TestList4.test_words" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ExtPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_List4.py" />
+      <option name="CLASS_NAME" value="TestList4" />
+      <option name="METHOD_NAME" value="test_words" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="List4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ExtPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List4.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -384,19 +396,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestRozklad.test_rozklad" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in TestList3" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_List3" />
-      <item index="3" class="java.lang.String" itemvalue="Python.List3" />
-      <item index="4" class="java.lang.String" itemvalue="Python.List2" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in TestList3" />
+      <item index="1" class="java.lang.String" itemvalue="Python.List3" />
+      <item index="2" class="java.lang.String" itemvalue="Python.List2" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestList4.test_words" />
+      <item index="4" class="java.lang.String" itemvalue="Python.List4" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.List2" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in TestList3" />
-        <item index="2" class="java.lang.String" itemvalue="Python.List3" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_List3" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestRozklad.test_rozklad" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestList4.test_words" />
+        <item index="1" class="java.lang.String" itemvalue="Python.List4" />
+        <item index="2" class="java.lang.String" itemvalue="Python.List2" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in TestList3" />
+        <item index="4" class="java.lang.String" itemvalue="Python.List3" />
       </list>
     </recent_temporary>
   </component>
@@ -463,40 +475,45 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/List3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="28" selection-start="0" selection-end="43" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/List2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="877" selection-end="877" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="629">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_List3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="30" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/List1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="78" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="680">
-          <folding>
-            <element signature="e#50#61#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="25" column="78" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="680" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_rozklad.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="459">
-          <folding>
-            <element signature="e#0#29#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="5" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="459" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/List1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="408">
-          <folding>
-            <element signature="e#50#61#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="18" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="408" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/List1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="27" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="408">
-          <folding>
-            <element signature="e#50#61#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="10" column="27" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="408" />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.PyCharm30/system/python_stubs/-1825924956/itertools.py">
@@ -513,29 +530,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_rozklad.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="43" selection-start="51" selection-end="94" vertical-scroll-proportion="0.04171779" vertical-offset="0" max-vertical-offset="815">
-          <folding>
-            <element signature="e#0#29#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="2" column="43" selection-start="51" selection-end="94" vertical-scroll-proportion="0.04171779" vertical-offset="0" max-vertical-offset="815" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/List1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="20" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
-          <folding>
-            <element signature="e#50#61#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="20" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_List3.py">
+    <entry file="file://$PROJECT_DIR$/List2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="30" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <marker date="1382376896813" expanded="true" signature="144:643" placeholder="..." />
-          </folding>
+        <state line="29" column="0" selection-start="877" selection-end="877" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -546,9 +552,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/List2.py">
+    <entry file="file://$PROJECT_DIR$/test_List3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="877" selection-end="877" vertical-scroll-proportion="0.604908" vertical-offset="0" max-vertical-offset="815">
+        <state line="9" column="30" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_List4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="28" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/List4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="42" selection-start="264" selection-end="264" vertical-scroll-proportion="0.18773006" vertical-offset="0" max-vertical-offset="815">
           <folding />
         </state>
       </provider>
