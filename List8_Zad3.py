@@ -11,6 +11,8 @@ class App():
         self.init_ui()
 
     def init_ui(self):
+        """Inicjalizacji interfejsu"""
+
         builder = Gtk.Builder()
         builder.add_from_file("kontakty.glade")
 
