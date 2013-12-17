@@ -110,8 +110,3 @@ class App():
         self.save()
         self.db.close()
         Gtk.main_quit(*args)
-
-
-app = App()
-Gtk.main()
-
