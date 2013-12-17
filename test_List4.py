@@ -8,6 +8,6 @@ __author__ = 'r.lukaszewski'
 
 class TestList4(TestCase):
     def test_words(self):
-        stringStream = StringIO.StringIO('asd zxc klinia\nplinia srodek fgh')
+        stringStream = StringIO.StringIO('asd    zxc klinia\nplinia srodek fgh')
         self.assertListEqual(['asd', 'zxc', 'srodek', 'fgh'], [x for x in words(stringStream)])
         stringStream.close()
